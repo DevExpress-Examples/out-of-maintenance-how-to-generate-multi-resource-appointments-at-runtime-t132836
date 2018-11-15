@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomObjects.cs](./CS/WindowsFormsApplication1/CustomObjects.cs) (VB: [CustomObjects.vb](./VB/WindowsFormsApplication1/CustomObjects.vb))
+* **[Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))**
+<!-- default file list end -->
 # How to generate multi-resource appointments at runtime
 
 
